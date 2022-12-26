@@ -2,6 +2,7 @@
 
 A simple graphical interface to observe the current state of CPU usage on Linux using Flutter.
 
+![Cap](./caps/cap-1.png)
 
 ## Supported languages:
 
